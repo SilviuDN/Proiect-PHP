@@ -116,15 +116,7 @@ if(isset($_SESSION['user'])) {
                       <input type="password" name="passwordHome"/>
                     </td>
                   </tr>
-                    
-                <tr>
-                    <td>
-                      <label>Test:</label>
-                    </td>
-                    <td>
 
-                    </td>
-                </tr>
                 </table>
 
                 <p>
